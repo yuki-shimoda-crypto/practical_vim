@@ -9,3 +9,7 @@
 var foo = 1;
 var bar = 'a';
 var foobar = foo + bar;
+* Excerpted from "Practical Vim",
+* published by The Pragmatic Bookshelf.
+* Copyrights apply to this code. It may not be used to create training material,
+* courses, books, articles, and the like. Contact us if you are in doubt.
